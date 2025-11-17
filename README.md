@@ -111,8 +111,7 @@ Clean termination with confirmation prompt.
 
 ## 📜 Academic Integrity
 
-This repository contains original work submitted to RGU for assessment.
-Reusing or submitting this work elsewhere may violate academic integrity regulations.
+This repository contains original code written for submission to RGU. Reusing or submitting this work elsewhere without attribution may violate academic integrity guidelines.
 
 ## 📘 License
 
