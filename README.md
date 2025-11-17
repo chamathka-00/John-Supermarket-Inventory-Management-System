@@ -34,7 +34,7 @@ This project demonstrates the ability to:
 
 * Design responsive UI layouts and user-friendly dialog interactions.
 
-## 🖥️ System Features (As Required by Coursework Brief)
+## 🖥️ System Features
 🔹 Automatic Low-Stock Display on Startup
 
 Loads all items from items.txt and displays any item whose quantity is below its threshold.
