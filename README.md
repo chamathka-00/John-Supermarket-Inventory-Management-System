@@ -87,7 +87,7 @@ Items can be saved to items.txt at any time through the dialog controllers.
 
 🔹 **List Items of Selected Dealer**
 
-* Shows items supplied by a chosen dealer using the dealer dialog.
+Shows items supplied by a chosen dealer using the dealer dialog.
 
 🔹 **Exit**
 
