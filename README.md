@@ -34,8 +34,6 @@ This project demonstrates the ability to:
 
 * Design responsive UI layouts and user-friendly dialog interactions.
 
-These directly map to the module learning outcomes for the second semester.
-
 ## 🖥️ System Features (As Required by Coursework Brief)
 🔹 Automatic Low-Stock Display on Startup
 
