@@ -147,7 +147,7 @@ JohnSuperMarket/
 
 4. Run the application using:
 
-&nbsp;&nbsp;&nbsp;java --module-path "path_to_javafx/lib" --add-modules javafx.controls,javafx.fxml -jar JohnSuperMarket.jar
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;java --module-path "path_to_javafx/lib" --add-modules javafx.controls,javafx.fxml -jar JohnSuperMarket.jar
 
 Or run from your IDE with JavaFX configured.
 
@@ -158,7 +158,6 @@ Reusing or submitting this work elsewhere may violate academic integrity regulat
 
 ## 📘 License
 
-This project is licensed under the Apache License 2.0.
+This project is licensed under the Apache License 2.0. You may view, use, and adapt the code for learning and educational purposes, provided that proper attribution is given as required by the license.
 
-You may view and adapt the code for learning purposes with proper attribution.
-Submitting this work as your own in academic settings is strictly prohibited.
+Submitting this work, or any modified version of it, as part of an academic assessment is strictly prohibited.
