@@ -93,32 +93,6 @@ Items can be saved to items.txt at any time through the dialog controllers.
 
 Clean termination with confirmation prompt.
 
-## 📂 Project Structure
-JohnSuperMarket/
-│── src/
-
-│   &nbsp;&nbsp;&nbsp;├── app/ (MainApp.java)
-
-│   &nbsp;&nbsp;&nbsp;├── controller/ (all JavaFX controllers)
-
-│   &nbsp;&nbsp;&nbsp;├── model/ (Item, Dealer, DealerItem)
-
-│   &nbsp;&nbsp;&nbsp;├── loader/ (FileManager)
-
-│   &nbsp;&nbsp;&nbsp;├── validator/ (InputValidator)
-
-│── resources/
-
-│   &nbsp;&nbsp;&nbsp;├── FXML layouts
-
-│   &nbsp;&nbsp;&nbsp;├── images/
-
-│── dealers.txt
-
-│── items.txt
-
-│── README.md
-
 ## ✔️ Technologies & Concepts Used
 
 * Java (OOP, classes, objects, interfaces, modularity)
@@ -134,20 +108,6 @@ JohnSuperMarket/
 * JUnit testing (ItemTest, DealerTest, FileManagerTest, etc.)
 
 * Responsive GUI layout design
-
-## 🚀 How to Run
-
-1. Install JDK 17+
-
-2. Install JavaFX SDK
-
-3. Place items.txt and dealers.txt in the project root
-
-4. Run the application using:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;java --module-path "path_to_javafx/lib" --add-modules javafx.controls,javafx.fxml -jar JohnSuperMarket.jar
-
-Or run from your IDE with JavaFX configured.
 
 ## 📜 Academic Integrity
 
