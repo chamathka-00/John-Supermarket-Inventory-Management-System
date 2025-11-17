@@ -1,0 +1,41 @@
+Keells
+0763628015
+Colombo
+Full Cream Milk,Anchor,420.00,10
+Eggs,Happy Hen,600.00,10
+White Bread,Wonder,180.00,8
+
+Cargills
+0758983174
+Colombo
+Basmati Rice,SunRice,1200.00,12
+Fresh Butter,Anchor,950.00,4
+Chicken Sausages,Prima,950.00,6
+
+Arpico
+0702892003
+Gampaha
+Potato Chips,Lays,250.00,15
+Orange Juice,Minute Maid,650.00,7
+Bathing Soap,Lux,120.00,40
+
+Co-op
+0784632690
+Negambo
+Sugar,MD,300.00,20
+Green Tea,Lipton,550.00,6
+French Baguette,Bakers,220.00,4
+
+Nestle
+0775213452
+Kottawa
+Yogurt,Highland,110.00,14
+Peanuts,KVC,180.00,10
+Toothpaste,Signal,210.00,7
+
+Unilever
+0719976234
+Awissawella
+Sunflower Oil,Fortune,890.00,8
+Shampoo,Sunsilk,540.00,18
+Floor Cleaner,Harpic,700.00,9

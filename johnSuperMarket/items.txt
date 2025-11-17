@@ -1,0 +1,21 @@
+A01,Full Cream Milk,Anchor,420.0,10,Dairy,2025-07-01,5,A01.jpg
+A02,Low Fat Yogurt,Highland,110.0,8,Dairy,2025-07-06,5,A02.jpg
+A03,Cheese Slices,Happy Cow,850.0,8,Dairy,2025-07-10,5,A03.jpg
+A04,Fresh Butter,Anchor,950.0,4,Dairy,2025-07-12,7,A04.jpg
+B01,White Bread,Wonder,180.0,6,Bakery,2025-07-02,7,B01.jpg
+B02,Chocolate Croissant,Prima,200.0,5,Bakery,2025-07-06,8,default.png
+B03,French Baguette,Bakers,220.0,5,Bakery,2025-07-10,4,B03.jpg
+B04,Banana Cake,Rich Life,350.0,2,Bakery,2025-07-13,5,B04.jpg
+C01,Potato Chips,Lays,250.0,4,Snacks,2025-07-03,10,C01.jpg
+C02,Chocolate Cream Biscuit,Maliban,300.0,11,Snacks,2025-07-07,6,C02.jpg
+C03,Peanuts,Scan,180.0,3,Snacks,2025-07-11,8,C03.jpg
+C04,Cheese Balls,Sunshine,220.0,2,Snacks,2025-07-12,6,C04.jpg
+D01,Orange Juice,Rita,650.0,8,Beverages,2025-07-04,5,D01.jpg
+D02,Green Tea,Lipton,550.0,4,Beverages,2025-07-08,6,D02.jpg
+D03,Mango Drink,Smak,120.0,2,Beverages,2025-07-12,8,D03.jpg
+D04,Bottled Water,Kinley,60.0,7,Beverages,2025-07-13,5,D04.jpg
+E02,Toothpaste,Signal,210.0,1,Personal Care,2025-07-09,5,E02.jpg
+E04,Body Lotion,Vaseline,850.0,15,Personal Care,2025-07-14,10,E04.jpg
+F01,Floor Cleaner,Harpic,700.0,3,Cleaning,2025-07-01,6,F01.jpg
+F02,Toilet Cleaner,Domex,320.0,9,Cleaning,2025-07-06,4,F02.jpg
+A15,asdfeeeee,rrrrrr,123.0,2,qqqqqq,2025-07-29,5,A01.jpg
